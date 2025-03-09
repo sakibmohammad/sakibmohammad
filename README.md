@@ -8,9 +8,9 @@ I apply **deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM
 ### 🛠 Skills
 - **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NLTK, spaCy, HF Transformers. 
 - **Data Analysis**: NumPy, Pandas, SciPy, Jupyter Notebook.  
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Gradio, Streamlit. 
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, TensorBoard. 
 - **Cloud & Deployment**: AWS, Google Colab, HF Spaces, Streamlit, Gradio. 
-- **Programming & Database**: Python, MATLAB, C, SQL, Git.
+- **Programming & Database**: Python, MATLAB, C, SQL (PostgreSQL), Git.
 -  **Image Processing & Analysis**: ImageJ, LasX.
   
 ### 🚀 Featured Projects
