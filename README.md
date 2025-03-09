@@ -1,18 +1,18 @@
-## Hi there! 👋 I'm Sakib Mohammad
+## Hello there! 👋 My Name is Sakib Mohammad
 
 🎓 **Ph.D. Candidate in Electrical and Computer Engineering**  
 🔬 **Applied AI/ML Researcher | Computer Vision | Generative AI | Explainable AI**  
 📍 **Southern Illinois University Carbondale**  
 
 ### 🔍 About Me
-I'm an AI/ML researcher passionate about applying deep learning to cellular biology problems. My work involves **computer vision, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME)** to uncover insights in biological and engineering applications. Currently, my **doctoral research** focuses on the **identification and classification of early germ layers using CNNs, U-Net, and interpretability techniques**.
+I'm an AI researcher passionate about applying deep learning to cellular biology problems. My work involves **computer vision, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME)** to uncover insights in biological and engineering applications. Currently, my **doctoral research** focuses on the **identification and classification of early germ layers using vision models and interpretability techniques**.
 
 ### 🛠 Technical Expertise
 - **Machine/Deep Learning**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NLTK, spaCy, HF Transformers.
 - **Data Analysis**: NumPy, Pandas, SciPy, Jupyter Notebook.
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Gradio, Streamlit
 - **Cloud & Deployment**: AWS, Google Colab, HF Spaces, Streamlit, Gradio.
-- **Programming & Database**: Python, MATLAB, C, SQL (PostgreSQL), Git.
+- **Programming & Database**: Python, MATLAB, C, SQL, Git.
 - **Image Processing & Analysis**: ImageJ, LasX.
 
 ### 📝 Selected Publications
