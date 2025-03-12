@@ -18,4 +18,4 @@ I apply **deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM
 🔹 **Hybrid AI for Tumor Cells Identification** | **NLP for Plagiarism Detection & Sentiment Analysis** (Side Project)
 
 ### 🌎 Connect With Me!
-📧 [Email](mailto:sakibmohammad1994@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | 💻 [GitHub](https://github.com/sakibmohammad) | 📚 [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)  
+📧 [Email](mailto:sakibmohammad1994@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | 📚 [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)  
