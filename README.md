@@ -1,4 +1,4 @@
-## Hello there! My name is Sakib Mohammad
+## Sakib Mohammad
 
 **Assistant Professor, Electronics Engineering Tech @Fairmont State University**  
 
