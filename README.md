@@ -1,21 +1,16 @@
-## Hello there! 👋 My name is Sakib Mohammad
+## Hello there! My name is Sakib Mohammad
 
-🎓 **Ph.D. Candidate, Electrical & Computer Engineering @Southern Illinois University Carbondale**  
+**Assistant Professor, Electronics Engineering Tech @Fairmont State University**  
 
-### 🔍 About Me
-I apply **deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME)** to solve problems in **biological sciences**. My **doctoral research** focuses on identifying and classifying early germ layers using vision models and interpretability techniques. I also explore NLP applications in AI, including **text analysis and document classification**.  
+### About Me
+I am an Assitant Professor of **Electronics Tech** at Fairmont State University, WV. My research interest lies in the domain of applying **deep learning models for microscopic image analysis in cell biology**. I also have some extertise and interest in NLP. **Please DM me for potential collaboration!**  
 
-### 🛠 Skills
-- **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NLTK, spaCy, HF Transformers. 
-- **Data Analysis**: NumPy, Pandas, SciPy, Jupyter Notebook.  
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, TensorBoard. 
-- **Cloud & Deployment**: AWS, Google Colab, HF Spaces, Streamlit, Gradio. 
-- **Programming & Database**: Python, MATLAB, C, SQL (PostgreSQL), Git.
--  **Image Processing & Analysis**: ImageJ, LasX.
   
-### 🚀 Featured Projects
-🔹 **Deep Learning for Early Mesoderm Cells Classification** | **Generative AI for Material Composition**  
-🔹 **Hybrid AI for Tumor Cells Identification** | **NLP for Plagiarism Detection & Sentiment Analysis** (Side Project)
+### Featured Publications
+🔹 **Drug Induced Morphological Changes in HeLa Cells: A Deep Learning and Explainable AI Perspective**   
+🔹 **Leveraging deep learning and generative AI for predicting rheological properties and material compositions of 3D printed polyacrylamide hydrogels**
+🔹 **Hybrid AI models allow label-free identification and classification of pancreatic tumor repopulating cell population**
 
-### 🌎 Connect With Me!
-📧 [Email](mailto:sakibmohammad1994@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | 📚 [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)  
+
+### Connect With Me!
+[Email](mailto:sakibmohammad1994@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)  
