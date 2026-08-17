@@ -10,5 +10,5 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=4w
 
 
 
-### Connect With Me!
+### Contacts
 [Email](mailto:sakibmohammad1994@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) 
